@@ -1,6 +1,10 @@
 ## Hi there 👋
 # 💫 Sobre mim:
-About me
+Atualmente atuando como Analista de BI no setor de agroindústria, possuo sólida experiência em processos de ETL (extração, transformação e carga de dados), com forte ênfase em transformar dados em insights estratégicos. Minha trajetória inclui passagem por diversas áreas do setor financeiro — como contas a pagar/receber, crédito, cobrança, custo, controladoria e, principalmente, planejamento financeiro — o que me proporcionou ampla visão de negócio.
+
+Atuo também como desenvolvedor de software em Python, com experiência na criação de sistemas em Django voltados a vendas e análise de desempenho, além da construção de dashboards e soluções de BI. Tenho profundo conhecimento em Excel (VBA, Power Query, Power Pivot), SQL, Power BI e bibliotecas Python como Pandas, NumPy e Plotly.
+
+Meu perfil combina conhecimento técnico com fundamentos sólidos em matemática financeira, estatística e modelagem de dados, o que me levou a integrar competências da área de Ciência de Dados. Possuo ainda habilidades fala, escrita e leitura em inglês e espanhol.
 
 
 ## 🌐 Redes Sociais:
